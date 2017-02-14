@@ -1,0 +1,16 @@
+{
+  "name": "firebase-query-to-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chopper Lee <lihengpro@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "debug": "^2.6.1",
+    "fast-csv": "^2.3.1"
+  }
+}
